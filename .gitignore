@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs
+/IndianRetailSupply/obj
+/IndianRetailSupply/.vs/IndianRetailSupply/v16/Server/sqlite3
